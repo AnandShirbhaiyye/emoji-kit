@@ -1,0 +1,10 @@
+.app-title-container{
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.background-emoji{
+    background-color: coral;
+    height: 100vh;
+}
