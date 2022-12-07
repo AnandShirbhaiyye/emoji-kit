@@ -8,3 +8,41 @@
     background-color: coral;
     height: 100vh;
 }
+.emoji-container{
+    height: 200px;
+  width: 200px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  border-radius: 20px;
+  border: 2px solid #545e75;
+  display: grid;
+  place-content: center;
+}
+.emoji{
+    font-size: 50px;
+}
+.emoji:hover {
+    transform: scale(1.4);
+    background-color: brown;
+    border-radius: 10px;
+  }
+  .emoji-container-emoji {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 5px;
+    border: 2px solid #545e75;
+  }  
+  .footer-container{
+    background-color: brown;
+    color: white;
+    padding: 15px;
+  }
