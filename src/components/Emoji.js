@@ -136,7 +136,7 @@ function Emoji() {
                   }}
                 ></div>
               </div>
-
+              
               <div className="size-container">
                 <input
                   type="range"
